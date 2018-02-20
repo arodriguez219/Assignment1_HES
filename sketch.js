@@ -32,7 +32,7 @@ function draw () {
   rect(200, 220, 85, 20);
 //here I'm using the beginShape(), vertex, and endShape() to create a longer
 //rectangle.
-  /*fill (101, 129, 114);
+  fill (101, 129, 114);
   beginShape(QUAD_STRIP);
   vertex(600, 20);
   vertex(600, 75);
@@ -42,7 +42,7 @@ function draw () {
   vertex(80, 75);
   vertex(90, 20);
   vertex(90, 75);
-  endShape();*/
+  endShape();
   //here I wanted to use a for loop to create a pattern of ovals toward the
  //bottom of the Canvas
   fill (33, 9, 19);
